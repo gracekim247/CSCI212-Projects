@@ -1,4 +1,4 @@
-# CSCI212-Projects
+# Data Input Organizer
 
 Each project (starting from Project 1) builds off of the previous project. 
 
